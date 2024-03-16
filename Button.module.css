@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap');
+
+.button{
+/* padding: 17px 21px 17px 21px; */
+gap: 11px;
+border-radius: 21px;
+background: linear-gradient(93.73deg, #D51B46 10.19%, #EE6910 98.19%);
+color: rgba(255, 255, 255, 1);
+font-family: "ZCOOL KuaiLe", sans-serif;
+font-size: 20px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+}

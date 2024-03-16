@@ -1,0 +1,202 @@
+.eventPanel{
+    width: 1512px;
+    margin-top:-50px ;
+    padding-bottom: 150px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8),
+    rgba(0, 0, 0, 0.9)), url('../../Images/eventBgImg.png');
+}
+.eventTitle{
+    padding-top:30px;
+margin-left: 344px;
+}
+.eventIntro{
+    width: 539px;
+    height: 111px;
+    margin-top: 13px;
+    margin-left: 80px;
+    font-family: "ZCOOL KuaiLe", sans-serif;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 37px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: rgba(230, 227, 227, 1);
+}
+.token{
+    margin-top: 15px;
+margin-left: 275px;
+}
+.tokenInfo{
+    width: 412px;
+height: 382px;
+margin-top: -40px;
+margin-left: 151px;
+border-radius: 20px;   
+background: rgba(13, 13, 13, 0.45);
+border: 1.5px solid rgb(255, 62, 48);
+}
+.col{
+    font-family: "ZCOOL KuaiLe", sans-serif;
+    margin-top: 50px;
+    margin-left: 50px;
+    line-height: 10px;
+    font-weight: 200;
+    
+    }
+    
+    .col1{
+        color: rgba(255, 255, 255, 1);
+    }
+    .col2{
+        color: rgba(223, 24, 10, 1);
+        margin-left: 300px;
+        margin-top: -30px;
+    }
+.walletButtton{
+    margin-top: 50px;
+margin-left: 286px;
+padding: 12px 15px 12px 15px;
+}
+.para{
+    width: 547px;
+height: 74px;
+margin-top: 20px;
+margin-left: 72px;
+font-family: "Shojumaru", system-ui;
+font-size: 28px;
+font-weight: 400;
+line-height: 37px;
+letter-spacing: 0em;
+text-align: center;
+color: rgba(237, 1, 55, 1);
+}
+.input{
+    width: 467px;
+height: 48px;
+padding-left: 15px;
+margin-top: 20px;
+margin-left: 111px;
+border-radius: 20px;
+border: 1px solid rgba(196, 17, 12, 1);
+background: none;
+color: white;
+font-size: 16px;
+}
+.generatorButton{
+padding: 5px 5px;
+margin-top: 5px;
+margin-left: -111px;
+}
+.copypaste{
+    width: 34px;
+height: 34px;
+margin-top: -620px;
+margin-left: 5px;
+margin-bottom: 0px;
+padding: 4px 6px 4px 6px;
+align-items: center;
+}
+.timer{
+    margin-bottom: 700px;
+    margin-top: -1000px;
+    margin-left: 925px;
+    border-radius: 4px;   
+    background: rgba(13, 13, 13, 0.45);
+    border: 1.5px solid rgb(255, 62, 48);
+    /* width: 200px;
+height: 100px;
+margin-top: 15px;
+margin-left: 951px;
+border-radius: 4px;   
+background: rgba(13, 13, 13, 0.45);
+border: 1.5px solid rgb(255, 62, 48); */
+}
+.presale{
+    width: 708px;
+height: 738px;
+margin-top: -750px;
+margin-left: 677px;
+border-radius: 20px;
+border: 1.5px solid rgb(255, 62, 48);
+}
+
+.title{
+    width: 312px;
+height: 64px;
+margin-top: 72px;
+margin-left: 198px;
+font-family: "Shojumaru", system-ui;
+font-size: 48px;
+font-weight: 400;
+line-height: 64px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(237, 1, 55, 1);
+}
+
+.price1{
+    width: 367px;
+height: 32px;
+margin-top: 20px;
+margin-left: 170px;
+font-family: "ZCOOL KuaiLe", sans-serif;
+font-size: 32px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(245, 241, 241, 1);
+}
+
+.price2{
+    width: 376px;
+height: 24px;
+margin-top: 20px;
+margin-left: 166px;
+font-family: "ZCOOL KuaiLe", sans-serif;
+font-size: 24px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(240, 240, 240, 1);
+}
+
+.price3{
+    width: 438px;
+height: 24px;
+margin-top: 20px;
+margin-left: 135px;
+font-family: "ZCOOL KuaiLe", sans-serif;
+font-size: 24px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(240, 240, 240, 1);
+}
+
+.price4{
+    width: 467px;
+height: 24px;
+margin-top: 20px;
+margin-left: 120px;
+font-family: "ZCOOL KuaiLe", sans-serif;
+font-size: 24px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(240, 240, 240, 1);
+}
+.saleButton{
+    margin-top: 50px;
+    display: flex;
+    justify-content:center;
+}
+.buyButton{
+    margin-right: 20px;
+}
+.claimButtons{
+    margin-left: 20px;
+}

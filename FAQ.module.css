@@ -1,0 +1,47 @@
+.FAQPanel{
+    width: 1512px;
+    margin-top:-50px ;
+    padding-bottom: 150px;
+    background-color: black;
+}
+.faqTitle{
+    padding-top:0px;
+    margin-left: 1000px;
+    margin-top: -500px;
+}
+.faqImg{
+    width: 503px;
+height: 503px;
+margin-top: 60px;
+margin-left: 87px;
+}
+.div{
+    width: 640px;
+height: 77px;
+margin-top: 3px;
+margin-left: 683px;
+color: white;
+border: 1px solid rgba(237, 1, 55, 1);
+border-radius: 20px;
+display: flex;
+justify-content:center;
+}
+.div1{
+    width: 640px;
+height: 110px;
+margin-top: 3px;
+margin-left: 683px;
+color: white;
+border: 1px solid rgba(237, 1, 55, 1);
+border-radius: 20px;
+display: flex;
+justify-content:center;
+}
+.innerDiv{
+    width: 350px;
+height: 53px;
+margin-top: -80px;
+margin-left: 850px;
+border-radius: 20px;
+background-color: gray;
+}

@@ -1,0 +1,51 @@
+.footerPanel{
+    background: linear-gradient(180deg, #030405 0%, #120101 100%);
+    width: 1512px;
+    height: 428px;
+    margin-top: 0px;
+    padding-bottom: 50px;
+
+}
+.logo{
+    width: 200px;
+height: 250px;
+margin-top: 64px;
+margin-left: 658px;
+}
+.h4{
+    width: 130px;
+height: 26px;
+margin-top: -50px;
+margin-left: 699px;
+font-family: Poppins;
+font-size: 24px;
+font-weight: 700;
+line-height: 26px;
+letter-spacing: 2px;
+text-align: left;
+background: linear-gradient(92.23deg, #FF002A 5.2%, #720005 90.93%);
+}
+.nav{
+    width: 800px;
+    height: 52px;
+    margin-top: 46px;
+    margin-left:350px;
+    gap: 24px;
+    }
+    .nav ul{
+        list-style: none;
+        display: flex;
+        align-items: center;
+    }
+    .nav li{
+        margin-left: 32px;
+    }
+    
+    .nav a{
+    text-decoration: none;
+    color: white;
+    }
+    .img{
+        margin-left: 700px;
+        margin-top: -10px;
+    }

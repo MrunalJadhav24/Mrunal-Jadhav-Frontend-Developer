@@ -1,0 +1,38 @@
+.introPanel{
+    background-color: black;
+    width: 1512px;
+    margin-top:-50px ;
+}
+.introTitle{
+    padding-top: 50px;
+    padding-left: 100px;
+}
+.intro{
+    width: 587px;
+    height: 207px;
+    margin-top: 50px;
+    margin-left: 100px;
+    font-family: "ZCOOL KuaiLe", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+}
+
+.intro em{
+    color: gray;
+}
+
+.introButton{
+    margin-top: 0px;
+    margin-left: 100px;
+    padding: 17px 21px 17px 21px;
+}
+.introImg{
+    width: 650px;
+    height: 650px;
+    margin-top: -450px;
+    margin-left: 700px;
+}

@@ -1,0 +1,124 @@
+.tokenomicsPanel{
+    width: 1512px;
+    margin-top:-50px ;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8),
+    rgba(0, 0, 0, 0.9)), url('../../Images/tokenomicsBgImg.png');
+    padding-bottom: 150px;
+}
+.tokenomicsTitle{
+    padding-top: 50px;
+    padding-left: 600px;
+}
+.tokenButton{
+    margin-top: 15px;
+    margin-left: 229px;
+}
+.tokenInfo{
+    width: 412px;
+    height: 250px;
+    margin-top: -40px;
+    margin-left: 151px;
+    border-radius: 20px;   
+    background: rgba(13, 13, 13, 0.45);
+    border: 1.5px solid rgb(255, 62, 48);
+}
+.col{
+    font-family: "ZCOOL KuaiLe", sans-serif;
+    margin-top: 50px;
+    margin-left: 50px;
+    line-height: 10px;
+    font-weight: 200
+}  
+.col1{
+    color: rgba(255, 255, 255, 1);
+}
+.col2{
+    color: rgba(223, 24, 10, 1);
+    margin-left: 300px;
+    margin-top: -30px;
+}
+.logo{
+    width: 278px;
+    height: 307px;
+    margin-top: -250px;
+    margin-left: 900px;
+}
+.p{
+    font-family: "Shojumaru", system-ui;
+    font-size: 16px;
+    font-weight: 400;
+    /* line-height: 21px; */
+    letter-spacing: 0em;
+    text-align: right;  
+    color: rgba(245, 245, 247, 1);  
+}
+.p1{
+    width: 269px;
+    height: 21px;
+    margin-top: -300px;
+    margin-left: 1150px;
+}
+.p2{
+    width: 224px;
+    height: 21px;
+    margin-top: 65px;
+    margin-left: 1200px;
+}
+.p3{
+    width: 289px;
+    height: 42px;
+    margin-top: 75px;
+    margin-left: 1150px;
+}
+.p4{
+    width: 263px;
+    height: 42px;
+    margin-top: -75px;
+    margin-left: 650px;
+}
+.p5{
+    width: 221px;
+    height: 21px;
+    margin-top: -150px;
+    margin-left: 650px;
+}
+.p6{
+    width: 162px;
+    height: 21px;
+    margin-top: -100px;
+    margin-left: 700px;
+}
+.hr1{
+    transform: rotate(25deg);
+    width: 50px;
+    margin-top: -15px;
+    margin-left: 920px;
+}
+.hr2{
+    width: 50px;
+    margin-top: 50px;
+    margin-left: 880px;
+}
+.hr3{
+    transform: rotate(150deg);
+    width: 35px;
+    margin-top: 80px;
+    margin-left: 920px;
+}
+.hr4{
+    transform: rotate(150deg);
+    width: 50px;
+    margin-top: -150px;
+    margin-left: 1100px;
+}
+.hr5{
+    width: 50px;
+    margin-top: 70px;
+    margin-left: 1125px;
+}
+.hr6{
+    transform: rotate(20deg);
+    width: 50px;
+    margin-top: 70px;
+    margin-left: 1120px;
+}
